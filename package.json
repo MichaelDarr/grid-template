@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "grid-template-packages",
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "Michael Darr",
+  "license": "MIT"
+}
